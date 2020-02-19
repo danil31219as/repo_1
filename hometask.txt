@@ -1,0 +1,12 @@
+Локальная master идентична сетевой demo
+10 коммитов
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
